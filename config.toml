@@ -1,0 +1,6 @@
+baseURL = "https://reaves.co/"
+languageCode = "en-us"
+title = "Reaves.co"
+defaultContentLanguage = "en"
+theme = "hermit"
+staticDir = ["static"]
